@@ -23,8 +23,8 @@ Model
 Logistic Regression    0.8045     0.7826  0.7297    0.7552
 Random Forest          0.8156     0.7971  0.7432    0.7692
 KNN                    0.7989     0.7714  0.7297    0.7500
+<img width="592" height="139" alt="Screenshot 2026-06-04 073344" src="https://github.com/user-attachments/assets/d7a84ebf-248c-4bf2-8e1c-71d4fd2ca9cf" />
 
-← Fill in your actual scores from the comparison table
 
 ## Best Model
 Random Forest — achieved highest accuracy and F1 Score
